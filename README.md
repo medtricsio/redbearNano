@@ -1,0 +1,3 @@
+# redbearNano
+Design reference is available at ArmEmbedded 
+https://developer.mbed.org/users/pkweitai/code/MedtricsIOECG/wiki/Homepage
